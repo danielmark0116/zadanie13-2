@@ -1,0 +1,23 @@
+{
+  "name": "zadanie13-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w style.scss -o style"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmark0116/zadanie13-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmark0116/zadanie13-2/issues"
+  },
+  "homepage": "https://github.com/danielmark0116/zadanie13-2#readme"
+}
